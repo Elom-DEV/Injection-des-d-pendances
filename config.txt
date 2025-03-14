@@ -1,0 +1,2 @@
+ma.elom.dao.DaoImpl
+ma.elom.metier.MetierImpl
